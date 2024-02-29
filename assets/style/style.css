@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("/assets/img/pug_XP.webp");
+    background-size: cover;
+}
+
+.debug{
+    border: 2px dotted red;
+    background-color: aquamarine;
+}
+
+#sweeper{
+    height: 100vh;
+    width: 100vw;
+}
+
+#minesweeper{
+    background-color: #bdbdbd;
+    max-width: 65%;
+    max-height: 50%;
+    width: 65%;
+    height: 50%;
+}
+
+.tile{
+
+}
+
+.mine{
+
+}
